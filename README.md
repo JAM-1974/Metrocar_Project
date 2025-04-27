@@ -11,7 +11,7 @@ The analysis was guided by the following questions:
 - At which stage does the highest drop-off occur in the user funnel?
 - Which age demographic has the highest conversion rate?
 - What are the main factors leading to ride cancellations, and how can they be reduced?
-- How can surge pricing be optimized to maximize revenue without hurting user retention?
+- How can surge pricing be optimised to maximise revenue without hurting user retention?
 - What strategies can improve both driver performance and user satisfaction?
 
 ## Methods and Tools
